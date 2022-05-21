@@ -1,6 +1,7 @@
 <img src="extras/imagenes/javascript.jpg">
 
 # Javascript-dsd-0-58610
+<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
 
 > Curso Javascript desde 0 |  
 > Sábados 10hs a 13hs |  
