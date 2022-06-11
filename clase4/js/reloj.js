@@ -12,10 +12,19 @@ function reloj()
 
     //obtenemos las horas
     let horas = fecha.getHours();
+    if ( horas < 10 ){
+        horas = "0" + horas;
+    }
     //obtenemos los minutos
     let minutos = fecha.getMinutes();
+    if ( minutos < 10 ){
+        minutos = "0" + minutos;
+    }
     //obtenemos los segundos
     let segundos = fecha.getSeconds();
+    if ( segundos < 10 ){
+        segundos = "0" + segundos;
+    }
 
 
     //imprimimos en el span
