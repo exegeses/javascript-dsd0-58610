@@ -1,0 +1,9 @@
+main{
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+main img{
+    width: 320px;
+}
