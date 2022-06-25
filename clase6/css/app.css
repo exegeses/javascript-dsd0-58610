@@ -44,3 +44,9 @@ nav{
     margin-top: 24px;
     width: 256px;
 }
+input[type="Text"]{
+    width: 200px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
